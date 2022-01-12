@@ -1,0 +1,27 @@
+body {
+  background: #25b79f;
+}
+
+
+.cont{
+    width: 80%;
+    margin: 5rem auto;
+}
+
+/* ======================================================================================================================= */
+/******************************************************
+// ❤️ it if you ❤️ it :) Thank you 🤘🤘🤘
+// Best viewed fullscreen
+// https://codepen.io/nocni_sovac/full/vYezYPg
+//******************************************************/
+
+body {
+	overflow: hidden;
+}
+
+#canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: black;
+}
